@@ -71,17 +71,14 @@
 </p>
 
 <p align="center">
-  <!-- Vertical stem - centered (2 icons per row) -->
+  <!-- Vertical stem - centered (3 icons per row) -->
   <img src="Icons/Visual Studio Code (VS Code).png" alt="VS Code" height="50" />
   <img src="Icons/Postman.png" alt="Postman" height="50" />
-</p>
-
-<p align="center">
   <img src="Icons/Linux.png" alt="Linux" height="50" />
-  <img src="Icons/icons8-ubuntu-96.png" alt="Ubuntu" height="50" />
 </p>
 
 <p align="center">
+  <img src="Icons/icons8-ubuntu-96.png" alt="Ubuntu" height="50" />
   <img src="Icons/Debian.png" alt="Debian" height="50" />
   <img src="Icons/Red Hat.png" alt="Red Hat" height="50" />
 </p>
@@ -89,14 +86,11 @@
 <p align="center">
   <img src="Icons/icons8-bash-100.png" alt="Bash" height="50" />
   <img src="Icons/Powershell.png" alt="PowerShell" height="50" />
-</p>
-
-<p align="center">
   <img src="Icons/mysql.png" alt="MySQL" height="50" />
-  <img src="Icons/SQL Developer.png" alt="SQL Developer" height="50" />
 </p>
 
 <p align="center">
+  <img src="Icons/SQL Developer.png" alt="SQL Developer" height="50" />
   <img src="Icons/MongoDB.png" alt="MongoDB" height="50" />
   <img src="Icons/Firebase.png" alt="Firebase" height="50" />
 </p>
@@ -104,14 +98,11 @@
 <p align="center">
   <img src="Icons/Google Cloud.png" alt="Google Cloud" height="50" />
   <img src="Icons/Figma.png" alt="Figma" height="50" />
-</p>
-
-<p align="center">
   <img src="Icons/Canva.png" alt="Canva" height="50" />
-  <img src="Icons/icons8-notion-64.png" alt="Notion" height="50" />
 </p>
 
 <p align="center">
+  <img src="Icons/icons8-notion-64.png" alt="Notion" height="50" />
   <img src="Icons/Arduino.png" alt="Arduino" height="50" />
   <img src="Icons/Raspberry Pi.png" alt="Raspberry Pi" height="50" />
 </p>
