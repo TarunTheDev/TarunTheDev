@@ -12,29 +12,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <div align="left" style="display: inline-block; width: 48%;">
-    <p>
-      <a href="https://www.linkedin.com/in/tarun-singh-jodha-b01946341/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:tarunsinghjodha75@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://github.com/TarunTheDev" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>
-  </div>
-  <img align="right" alt="Coding" width="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<br clear="both" />
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -53,12 +30,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TarunTheDev/TarunTheDev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunTheDev&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -197,3 +168,26 @@ To grow into a strong **Frontend + Automation + AI Developer**
 who builds products that are:
 
 > ⚡ Fast · 🎨 Beautiful · 🤖 Smart · 🧩 Scalable
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <div align="left" style="display: inline-block; width: 48%;">
+    <p>
+      <a href="https://www.linkedin.com/in/tarun-singh-jodha-b01946341/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:tarunsinghjodha75@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://github.com/TarunTheDev" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </div>
+  <img align="right" alt="Coding" width="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<br clear="both" />
