@@ -49,6 +49,12 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=TarunTheDev&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 </p>
 
+### 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TarunTheDev/TarunTheDev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
 ### 📈 Activity Graph
 
 <p align="center">
