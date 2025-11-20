@@ -28,7 +28,7 @@
       </a>
     </p>
   </div>
-  <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img align="right" alt="Coding" width="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <br clear="both" />
