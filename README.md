@@ -29,51 +29,102 @@
 
 ---
 
-## 🎞️ Animated Tech Icons (from my own Icons pack)
-
-<!-- Make sure your Icons/ folder exists with these filenames -->
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Frontend basics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunTheDev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunTheDev&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TarunTheDev&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunTheDev&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🛠️ Languages and Tools:
+
+<p align="center">
+  <!-- Frontend -->
   <img src="Icons/html.gif" alt="HTML" height="48" />
+  <img src="Icons/HTML5.png" alt="HTML5" height="48" />
   <img src="Icons/css.gif" alt="CSS" height="48" />
+  <img src="Icons/CSS3.png" alt="CSS3" height="48" />
   <img src="Icons/java-script.png" alt="JavaScript" height="48" />
+  <img src="Icons/icons8-javascript.gif" alt="JavaScript Animated" height="48" />
   <img src="Icons/typescript.png" alt="TypeScript" height="48" />
+  <img src="Icons/icons8-react.gif" alt="React" height="48" />
+  <img src="Icons/Tailwind CSS.png" alt="Tailwind CSS" height="48" />
 </p>
 
 <p align="center">
-  <!-- Programming / Data / AI -->
+  <!-- Programming Languages -->
   <img src="Icons/python.png" alt="Python" height="48" />
-  <img src="Icons/icons8-numpy-48.png" alt="NumPy" height="48" />
-  <img src="Icons/Pandas.png" alt="Pandas" height="48" />
+  <img src="Icons/icons8-python.gif" alt="Python Animated" height="48" />
+  <img src="Icons/C.png" alt="C" height="48" />
+  <img src="Icons/C programming language.gif" alt="C Animated" height="48" />
+  <img src="Icons/Embedded C.png" alt="Embedded C" height="48" />
+  <img src="Icons/icons8-java.gif" alt="Java" height="48" />
+  <img src="Icons/icons8-rust-programming-language.gif" alt="Rust" height="48" />
+  <img src="Icons/PHP.png" alt="PHP" height="48" />
+  <img src="Icons/MATLAB.png" alt="MATLAB" height="48" />
 </p>
 
 <p align="center">
-  <!-- Tools & Platforms -->
+  <!-- Frameworks & Libraries -->
+  <img src="Icons/Node.js.png" alt="Node.js" height="48" />
+  <img src="Icons/django.png" alt="Django" height="48" />
+  <img src="Icons/Jupyter.png" alt="Jupyter" height="48" />
+</p>
+
+<p align="center">
+  <!-- Tools & Version Control -->
   <img src="Icons/Git.png" alt="Git" height="48" />
-  <img src="Icons/GitHub.png" alt="GitHub" height="48" />
+  <img src="Icons/icons8-github.gif" alt="GitHub" height="48" />
   <img src="Icons/GitLab.png" alt="GitLab" height="48" />
-  <img src="Icons/Linux.png" alt="Linux" height="48" />
-  <img src="Icons/icons8-bash-100.png" alt="Bash" height="48" />
   <img src="Icons/Visual Studio Code (VS Code).png" alt="VS Code" height="48" />
+  <img src="Icons/Postman.png" alt="Postman" height="48" />
 </p>
 
 <p align="center">
-  <!-- Databases & Hosting -->
+  <!-- Operating Systems & Shell -->
+  <img src="Icons/Linux.png" alt="Linux" height="48" />
+  <img src="Icons/icons8-ubuntu-96.png" alt="Ubuntu" height="48" />
+  <img src="Icons/Debian.png" alt="Debian" height="48" />
+  <img src="Icons/Red Hat.png" alt="Red Hat" height="48" />
+  <img src="Icons/icons8-bash-100.png" alt="Bash" height="48" />
+  <img src="Icons/Powershell.png" alt="PowerShell" height="48" />
+</p>
+
+<p align="center">
+  <!-- Databases & Cloud -->
   <img src="Icons/mysql.png" alt="MySQL" height="48" />
+  <img src="Icons/SQL Developer.png" alt="SQL Developer" height="48" />
   <img src="Icons/MongoDB.png" alt="MongoDB" height="48" />
-  <img src="Icons/icons8-netlify-48.png" alt="Netlify" height="48" />
-  <img src="Icons/Vercel.png" alt="Vercel" height="48" />
+  <img src="Icons/Firebase.png" alt="Firebase" height="48" />
+  <img src="Icons/Google Cloud.png" alt="Google Cloud" height="48" />
 </p>
 
 <p align="center">
-  <!-- Design & Misc -->
+  <!-- Design & Planning -->
   <img src="Icons/Figma.png" alt="Figma" height="48" />
   <img src="Icons/Canva.png" alt="Canva" height="48" />
-  <img src="Icons/Postman.png" alt="Postman" height="48" />
+  <img src="Icons/icons8-notion-64.png" alt="Notion" height="48" />
+</p>
+
+<p align="center">
+  <!-- Hardware & Electronics -->
   <img src="Icons/Arduino.png" alt="Arduino" height="48" />
   <img src="Icons/Raspberry Pi.png" alt="Raspberry Pi" height="48" />
-  <img src="Icons/icons8-notion-64.png" alt="Notion" height="48" />
 </p>
 
 ---
@@ -117,28 +168,6 @@
 - 🔹 **Screen Capture App** – Electron + TypeScript desktop screen capture tool  
 - 🔹 **Temperature Prediction & Automation System** – Predicts temperature & simulates fan control using threshold logic  
 - 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API  
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunTheDev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunTheDev&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TarunTheDev&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunTheDev&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
