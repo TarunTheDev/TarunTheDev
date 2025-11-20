@@ -15,7 +15,9 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunTheDev&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&preferLogin=true">
+    <img alt="TarunTheDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TarunTheDev?cardType=github&theme=vue-dark&preferLogin=true" />
+  </a>
 </p>
 
 <p align="center">
