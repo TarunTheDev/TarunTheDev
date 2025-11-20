@@ -39,64 +39,81 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <!-- Top horizontal bar of T - Row 1 -->
-  <img src="Icons/html.gif" alt="HTML" height="40" />
-  <img src="Icons/css.gif" alt="CSS" height="40" />
-  <img src="Icons/java-script.png" alt="JavaScript" height="40" />
-  <img src="Icons/typescript.png" alt="TypeScript" height="40" />
-  <img src="Icons/icons8-react.gif" alt="React" height="40" />
-  <img src="Icons/Node.js.png" alt="Node.js" height="40" />
+  <!-- Top horizontal bar of T - Row 1 (12 icons) -->
+  <img src="Icons/html.gif" alt="HTML" height="50" />
+  <img src="Icons/HTML5.png" alt="HTML5" height="50" />
+  <img src="Icons/css.gif" alt="CSS" height="50" />
+  <img src="Icons/CSS3.png" alt="CSS3" height="50" />
+  <img src="Icons/java-script.png" alt="JavaScript" height="50" />
+  <img src="Icons/icons8-javascript.gif" alt="JavaScript Animated" height="50" />
+  <img src="Icons/typescript.png" alt="TypeScript" height="50" />
+  <img src="Icons/icons8-react.gif" alt="React" height="50" />
+  <img src="Icons/Tailwind CSS.png" alt="Tailwind CSS" height="50" />
+  <img src="Icons/Node.js.png" alt="Node.js" height="50" />
+  <img src="Icons/django.png" alt="Django" height="50" />
+  <img src="Icons/Jupyter.png" alt="Jupyter" height="50" />
 </p>
 
 <p align="center">
-  <!-- Top horizontal bar of T - Row 2 -->
-  <img src="Icons/python.png" alt="Python" height="40" />
-  <img src="Icons/C.png" alt="C" height="40" />
-  <img src="Icons/icons8-java.gif" alt="Java" height="40" />
-  <img src="Icons/PHP.png" alt="PHP" height="40" />
-  <img src="Icons/django.png" alt="Django" height="40" />
-  <img src="Icons/Tailwind CSS.png" alt="Tailwind CSS" height="40" />
+  <!-- Top horizontal bar of T - Row 2 (12 icons) -->
+  <img src="Icons/python.png" alt="Python" height="50" />
+  <img src="Icons/icons8-python.gif" alt="Python Animated" height="50" />
+  <img src="Icons/C.png" alt="C" height="50" />
+  <img src="Icons/C programming language.gif" alt="C Animated" height="50" />
+  <img src="Icons/Embedded C.png" alt="Embedded C" height="50" />
+  <img src="Icons/icons8-java.gif" alt="Java" height="50" />
+  <img src="Icons/icons8-rust-programming-language.gif" alt="Rust" height="50" />
+  <img src="Icons/PHP.png" alt="PHP" height="50" />
+  <img src="Icons/MATLAB.png" alt="MATLAB" height="50" />
+  <img src="Icons/Git.png" alt="Git" height="50" />
+  <img src="Icons/icons8-github.gif" alt="GitHub" height="50" />
+  <img src="Icons/GitLab.png" alt="GitLab" height="50" />
 </p>
 
 <p align="center">
-  <!-- Vertical stem - centered -->
-  <img src="Icons/Git.png" alt="Git" height="40" />
-  <img src="Icons/icons8-github.gif" alt="GitHub" height="40" />
+  <!-- Vertical stem - centered (2 icons per row) -->
+  <img src="Icons/Visual Studio Code (VS Code).png" alt="VS Code" height="50" />
+  <img src="Icons/Postman.png" alt="Postman" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/GitLab.png" alt="GitLab" height="40" />
-  <img src="Icons/Visual Studio Code (VS Code).png" alt="VS Code" height="40" />
+  <img src="Icons/Linux.png" alt="Linux" height="50" />
+  <img src="Icons/icons8-ubuntu-96.png" alt="Ubuntu" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/Linux.png" alt="Linux" height="40" />
-  <img src="Icons/icons8-bash-100.png" alt="Bash" height="40" />
+  <img src="Icons/Debian.png" alt="Debian" height="50" />
+  <img src="Icons/Red Hat.png" alt="Red Hat" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/mysql.png" alt="MySQL" height="40" />
-  <img src="Icons/MongoDB.png" alt="MongoDB" height="40" />
+  <img src="Icons/icons8-bash-100.png" alt="Bash" height="50" />
+  <img src="Icons/Powershell.png" alt="PowerShell" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/Firebase.png" alt="Firebase" height="40" />
-  <img src="Icons/Google Cloud.png" alt="Google Cloud" height="40" />
+  <img src="Icons/mysql.png" alt="MySQL" height="50" />
+  <img src="Icons/SQL Developer.png" alt="SQL Developer" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/Postman.png" alt="Postman" height="40" />
-  <img src="Icons/Figma.png" alt="Figma" height="40" />
+  <img src="Icons/MongoDB.png" alt="MongoDB" height="50" />
+  <img src="Icons/Firebase.png" alt="Firebase" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/Canva.png" alt="Canva" height="40" />
-  <img src="Icons/icons8-notion-64.png" alt="Notion" height="40" />
+  <img src="Icons/Google Cloud.png" alt="Google Cloud" height="50" />
+  <img src="Icons/Figma.png" alt="Figma" height="50" />
 </p>
 
 <p align="center">
-  <img src="Icons/Arduino.png" alt="Arduino" height="40" />
-  <img src="Icons/Raspberry Pi.png" alt="Raspberry Pi" height="40" />
+  <img src="Icons/Canva.png" alt="Canva" height="50" />
+  <img src="Icons/icons8-notion-64.png" alt="Notion" height="50" />
+</p>
+
+<p align="center">
+  <img src="Icons/Arduino.png" alt="Arduino" height="50" />
+  <img src="Icons/Raspberry Pi.png" alt="Raspberry Pi" height="50" />
 </p>
 
 ---
