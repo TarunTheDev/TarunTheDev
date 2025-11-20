@@ -39,7 +39,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <!-- Frontend -->
+  <!-- Top horizontal bar of T (10 icons wide) -->
   <img src="Icons/html.gif" alt="HTML" height="48" />
   <img src="Icons/HTML5.png" alt="HTML5" height="48" />
   <img src="Icons/css.gif" alt="CSS" height="48" />
@@ -49,65 +49,71 @@
   <img src="Icons/typescript.png" alt="TypeScript" height="48" />
   <img src="Icons/icons8-react.gif" alt="React" height="48" />
   <img src="Icons/Tailwind CSS.png" alt="Tailwind CSS" height="48" />
+  <img src="Icons/Node.js.png" alt="Node.js" height="48" />
 </p>
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- Vertical stem of T (3 icons centered) -->
   <img src="Icons/python.png" alt="Python" height="48" />
   <img src="Icons/icons8-python.gif" alt="Python Animated" height="48" />
   <img src="Icons/C.png" alt="C" height="48" />
+</p>
+
+<p align="center">
   <img src="Icons/C programming language.gif" alt="C Animated" height="48" />
   <img src="Icons/Embedded C.png" alt="Embedded C" height="48" />
   <img src="Icons/icons8-java.gif" alt="Java" height="48" />
+</p>
+
+<p align="center">
   <img src="Icons/icons8-rust-programming-language.gif" alt="Rust" height="48" />
   <img src="Icons/PHP.png" alt="PHP" height="48" />
   <img src="Icons/MATLAB.png" alt="MATLAB" height="48" />
 </p>
 
 <p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="Icons/Node.js.png" alt="Node.js" height="48" />
   <img src="Icons/django.png" alt="Django" height="48" />
   <img src="Icons/Jupyter.png" alt="Jupyter" height="48" />
+  <img src="Icons/Git.png" alt="Git" height="48" />
 </p>
 
 <p align="center">
-  <!-- Tools & Version Control -->
-  <img src="Icons/Git.png" alt="Git" height="48" />
   <img src="Icons/icons8-github.gif" alt="GitHub" height="48" />
   <img src="Icons/GitLab.png" alt="GitLab" height="48" />
   <img src="Icons/Visual Studio Code (VS Code).png" alt="VS Code" height="48" />
-  <img src="Icons/Postman.png" alt="Postman" height="48" />
 </p>
 
 <p align="center">
-  <!-- Operating Systems & Shell -->
   <img src="Icons/Linux.png" alt="Linux" height="48" />
   <img src="Icons/icons8-ubuntu-96.png" alt="Ubuntu" height="48" />
   <img src="Icons/Debian.png" alt="Debian" height="48" />
+</p>
+
+<p align="center">
   <img src="Icons/Red Hat.png" alt="Red Hat" height="48" />
   <img src="Icons/icons8-bash-100.png" alt="Bash" height="48" />
   <img src="Icons/Powershell.png" alt="PowerShell" height="48" />
 </p>
 
 <p align="center">
-  <!-- Databases & Cloud -->
   <img src="Icons/mysql.png" alt="MySQL" height="48" />
   <img src="Icons/SQL Developer.png" alt="SQL Developer" height="48" />
   <img src="Icons/MongoDB.png" alt="MongoDB" height="48" />
-  <img src="Icons/Firebase.png" alt="Firebase" height="48" />
-  <img src="Icons/Google Cloud.png" alt="Google Cloud" height="48" />
 </p>
 
 <p align="center">
-  <!-- Design & Planning -->
+  <img src="Icons/Firebase.png" alt="Firebase" height="48" />
+  <img src="Icons/Google Cloud.png" alt="Google Cloud" height="48" />
+  <img src="Icons/Postman.png" alt="Postman" height="48" />
+</p>
+
+<p align="center">
   <img src="Icons/Figma.png" alt="Figma" height="48" />
   <img src="Icons/Canva.png" alt="Canva" height="48" />
   <img src="Icons/icons8-notion-64.png" alt="Notion" height="48" />
 </p>
 
 <p align="center">
-  <!-- Hardware & Electronics -->
   <img src="Icons/Arduino.png" alt="Arduino" height="48" />
   <img src="Icons/Raspberry Pi.png" alt="Raspberry Pi" height="48" />
 </p>
