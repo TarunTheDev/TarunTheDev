@@ -120,30 +120,6 @@
 
 ---
 
-## 📌 Pinned Projects (GitHub Cards)
-
-> ⚠️ Replace the `repo=` names with your real repository names once you create them.
-
-<p align="center">
-  <a href="https://github.com/TarunTheDev/jarvis-voice-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunTheDev&repo=jarvis-voice-assistant&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/TarunTheDev/screen-capture-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunTheDev&repo=screen-capture-app&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TarunTheDev/temperature-prediction-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunTheDev&repo=temperature-prediction-automation&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/TarunTheDev/sports-matches-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TarunTheDev&repo=sports-matches-ui&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -162,24 +138,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunTheDev&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarunTheDev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TarunTheDev&icon=0&color=0" alt="Profile Views" />
-  </a>
 </p>
 
 ---
