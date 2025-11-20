@@ -3,7 +3,6 @@
   <img src="./github-header-banner.png" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tarun Singh Jodha</h1>
 <h3 align="center">Frontend Developer · Automation & AI Explorer</h3>
 
 <p align="center">
@@ -15,17 +14,24 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarun-singh-jodha-b01946341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tarunsinghjodha75@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/TarunTheDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+  <div align="left" style="display: inline-block; width: 48%;">
+    <p>
+      <a href="https://www.linkedin.com/in/tarun-singh-jodha-b01946341/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:tarunsinghjodha75@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://github.com/TarunTheDev" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </p>
+  </div>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<br clear="both" />
 
 ---
 
@@ -168,6 +174,14 @@
 - 🔹 **Screen Capture App** – Electron + TypeScript desktop screen capture tool  
 - 🔹 **Temperature Prediction & Automation System** – Predicts temperature & simulates fan control using threshold logic  
 - 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TarunTheDev/TarunTheDev/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
