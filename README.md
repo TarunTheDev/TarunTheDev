@@ -28,7 +28,7 @@
       </a>
     </p>
   </div>
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <br clear="both" />
@@ -135,6 +135,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TarunTheDev/TarunTheDev/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 💻 Tech Stack (Text Version)
 
 ### ⭐ Core Frontend
@@ -174,14 +182,6 @@
 - 🔹 **Screen Capture App** – Electron + TypeScript desktop screen capture tool  
 - 🔹 **Temperature Prediction & Automation System** – Predicts temperature & simulates fan control using threshold logic  
 - 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API  
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TarunTheDev/TarunTheDev/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
