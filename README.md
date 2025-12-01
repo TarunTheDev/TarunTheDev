@@ -152,21 +152,29 @@
 
 ## 🚀 Highlight Projects
 
+<img align="right" alt="Coding" width="150" src="./coding.gif" />
+
 > I'm gradually putting all projects on GitHub. Once repos exist, you can pin them and link them here.
 
 - 🔹 **Jarvis AI Voice Assistant** – Personal voice assistant for automation and tasks (in progress)  
 - 🔹 **Screen Capture App** – Electron + TypeScript desktop screen capture tool  
 - 🔹 **Temperature Prediction & Automation System** – Predicts temperature & simulates fan control using threshold logic  
-- 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API  
+- 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API
+
+<br clear="both" />  
 
 ---
 
 ## 🎯 Long-Term Goal
 
+<img align="right" alt="Coding" width="150" src="./coding 2.gif" />
+
 To grow into a strong **Frontend + Automation + AI Developer**  
 who builds products that are:
 
 > ⚡ Fast · 🎨 Beautiful · 🤖 Smart · 🧩 Scalable
+
+<br clear="both" />
 
 ---
 
