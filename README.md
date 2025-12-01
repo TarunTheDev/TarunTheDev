@@ -125,7 +125,16 @@
 
 ## 💻 Tech Stack (Text Version)
 
-<img align="right" alt="JavaScript" width="400" src="./Java Script banner.gif" />
+<div align="right">
+  <img src="./Java Script banner.gif" alt="JavaScript" width="300" /><br/>
+  <img src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Tech" width="100" />
+  <img src="./212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Tech" width="100" /><br/>
+  <img src="./219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech" width="100" />
+  <img src="./219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Tech" width="100" /><br/>
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech" width="100" />
+  <img src="./229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Tech" width="100" /><br/>
+  <img src="./bd4ed327189c2a56695beb91cd534570.gif" alt="Tech" width="100" />
+</div>
 
 ### ⭐ Core Frontend
 - HTML5, CSS3, JavaScript (ES6+)
@@ -153,24 +162,6 @@
 - Arduino
 - Raspberry Pi basics
 - Electronics & automation interest (ECE background)
-
-<br clear="both" />
-
-<p align="right">
-  <img src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Tech" width="120" />
-  <img src="./212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Tech" width="120" />
-</p>
-<p align="right">
-  <img src="./219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech" width="120" />
-  <img src="./219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Tech" width="120" />
-</p>
-<p align="right">
-  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech" width="120" />
-  <img src="./229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Tech" width="120" />
-</p>
-<p align="right">
-  <img src="./bd4ed327189c2a56695beb91cd534570.gif" alt="Tech" width="120" />
-</p>
 
 <br clear="both" />
 
