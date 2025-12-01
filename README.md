@@ -127,7 +127,7 @@
 
 <table>
 <tr>
-<td width="75%">
+<td width="65%">
 
 ### ⭐ Core Frontend
 - HTML5, CSS3, JavaScript (ES6+)
