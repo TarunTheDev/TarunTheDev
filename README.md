@@ -157,7 +157,7 @@
 - Electronics & automation interest (ECE background)
 
 </td>
-<td width="60%" valign="top">
+<td width="82%" valign="top">
 
 <img src="./Java Script banner.gif" alt="JavaScript" width="100%" /><br/>
 <img src="./212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Tech" width="90%" />
