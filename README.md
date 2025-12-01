@@ -41,10 +41,6 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="./Java Script banner.gif" alt="JavaScript Banner" width="500" />
-</p>
-
-<p align="center">
   <!-- Top horizontal bar of T - Row 1 (12 icons) -->
   <img src="Icons/html.gif" alt="HTML" height="50" />
   <img src="Icons/HTML5.png" alt="HTML5" height="50" />
@@ -125,6 +121,8 @@
 
 ## 💻 Tech Stack (Text Version)
 
+<img align="right" alt="JavaScript" width="200" src="./Java Script banner.gif" />
+
 ### ⭐ Core Frontend
 - HTML5, CSS3, JavaScript (ES6+)
 - TypeScript
@@ -151,6 +149,8 @@
 - Arduino
 - Raspberry Pi basics
 - Electronics & automation interest (ECE background)
+
+<br clear="both" />
 
 ---
 
