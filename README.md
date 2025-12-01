@@ -17,6 +17,10 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
+  <img src="./banner.jpg" alt="Stats Banner" width="600" />
+</p>
+
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&preferLogin=true">
     <img alt="TarunTheDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TarunTheDev?cardType=github&theme=vue-dark&preferLogin=true" />
   </a>
@@ -184,6 +188,8 @@ who builds products that are:
 
 ## 🌐 Connect With Me
 
+<img align="right" alt="Connect" width="200" src="./Untitled_design_1_FGaKrIz.webp" />
+
 <div align="center">
   <div align="left" style="display: inline-block; width: 48%;">
     <p>
@@ -198,7 +204,6 @@ who builds products that are:
       </a>
     </p>
   </div>
-  <img align="right" alt="Coding" width="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <br clear="both" />
