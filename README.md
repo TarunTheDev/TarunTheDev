@@ -3,7 +3,7 @@
   <img src="./image.png" alt="Banner Image" />
 </p>
 <p align="center">
-  <img src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
+  <img src="./coding 2.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
 </p>
 <p align="center">
   <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.3125%2C%22deleteSpeed%22%3A0.4%7D%2C%7B%22text%22%3A%22Front-end+Developer%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.2857142857142857%2C%22deleteSpeed%22%3A0.35714285714285715%7D%2C%7B%22text%22%3A%22Full+Stack+Developer%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.27027027027027023%2C%22deleteSpeed%22%3A0.3448275862068966%7D%5D" alt="Typing SVG" /></a>
@@ -167,7 +167,7 @@
 
 ## 🎯 Long-Term Goal
 
-<img align="right" alt="Coding" width="150" src="./coding 2.gif" />
+<img align="right" alt="Coding" width="150" src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 
 To grow into a strong **Frontend + Automation + AI Developer**  
 who builds products that are:
