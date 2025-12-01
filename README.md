@@ -121,7 +121,7 @@
 
 ## 💻 Tech Stack (Text Version)
 
-<img align="right" alt="JavaScript" width="200" src="./Java Script banner.gif" />
+<img align="right" alt="JavaScript" width="400" src="./Java Script banner.gif" />
 
 ### ⭐ Core Frontend
 - HTML5, CSS3, JavaScript (ES6+)
