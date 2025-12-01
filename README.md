@@ -154,12 +154,12 @@
 
 <img align="right" alt="Coding" width="150" src="./coding.gif" />
 
-> I'm gradually putting all projects on GitHub. Once repos exist, you can pin them and link them here.
-
-- 🔹 **Jarvis AI Voice Assistant** – Personal voice assistant for automation and tasks (in progress)  
-- 🔹 **Screen Capture App** – Electron + TypeScript desktop screen capture tool  
-- 🔹 **Temperature Prediction & Automation System** – Predicts temperature & simulates fan control using threshold logic  
-- 🔹 **Sports Matches UI** – Frontend that displays upcoming matches using a public sports API
+- 🔹 **[Agentic Commerce Voice Agent](https://github.com/TarunTheDev/agentic-commerce-voice-agent)** – AI-powered voice agent for e-commerce interactions  
+- 🔹 **[Interactive Story Voice GM](https://github.com/TarunTheDev/interactive-story-voice-gm)** – Voice-based interactive storytelling game master  
+- 🔹 **[AI Fraud Alert Agent](https://github.com/TarunTheDev/ai-fraud-alert-agent)** – AI agent for detecting and alerting fraud  
+- 🔹 **[Smart Resume Builder](https://github.com/TarunTheDev/smart-resume-builder-with-ai-suggestions)** – Resume builder with AI-powered suggestions  
+- 🔹 **[Player Re-identification Solution](https://github.com/TarunTheDev/player-reidentification-solution)** – ML-based player tracking and re-identification  
+- 🔹 **[Temperature Prediction ML Project](https://github.com/TarunTheDev/Temperature-Prediction-ML-Project)** – Machine learning model for temperature prediction
 
 <br clear="both" />  
 
