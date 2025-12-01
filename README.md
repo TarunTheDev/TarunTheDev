@@ -6,7 +6,7 @@
   <img src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
 </p>
 <p align="center">
-  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22typingSpeed%22%3A0.3125%7D%2C%7B%22text%22%3A%22Frontend+Developer%22%2C%22typingSpeed%22%3A0.3333333333333333%7D%5D" alt="Typing SVG" /></a>
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.3125%2C%22deleteSpeed%22%3A0.4%7D%2C%7B%22text%22%3A%22Front-end+Developer%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.2857142857142857%2C%22deleteSpeed%22%3A0.35714285714285715%7D%2C%7B%22text%22%3A%22Full+Stack+Developer%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.27027027027027023%2C%22deleteSpeed%22%3A0.3448275862068966%7D%5D" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Automation+%26+AI+Explorer;Love+building+smart;Always+learning%2C+always+shipping.+%F0%9F%9A%80+" alt="Typing SVG" /></a>
