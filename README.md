@@ -1,11 +1,11 @@
 <!-- 🔥 Top Banner -->
 <p align="center">
-  <img src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
-</p>
-<p align="center" style="margin-top: -20px;">
   <img src="./image.png" alt="Banner Image" />
 </p>
-<h2 align="center" style="margin-top: -10px;">Frontend Developer · Automation & AI Explorer</h2>
+<p align="center">
+  <img src="./241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" />
+</p>
+<h2 align="center">Frontend Developer · Automation & AI Explorer</h2>
 <p align="center">
   I love building smart, interactive experiences using Web, Automation, and AI.<br/>
   Always learning, always shipping. 🚀
