@@ -1,8 +1,5 @@
 <!-- 🔥 Top Banner -->
 <p align="center">
-  <img src="./image.png" alt="Banner Image" />
-</p>
-<p align="center">
   <img src="./coding 2.gif" alt="Hi, I'm Tarun Singh Jodha – Frontend Developer" width="400" />
 </p>
 <p align="center">
